@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocalBrowser</string>
+    <string name="call_javascript_from_android">Call Javascript from Android</string>
+</resources>
